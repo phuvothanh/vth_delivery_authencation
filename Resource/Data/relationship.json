@@ -1,0 +1,54 @@
+[
+  {
+    "key": null,
+    "value": "Chọn mối quan hệ"
+  },
+  {
+    "key": 1,
+    "value": "Cha"
+  },
+  {
+    "key": 2,
+    "value": "Mẹ"
+  },
+  {
+    "key": 3,
+    "value": "Anh"
+  },
+  {
+    "key": 4,
+    "value": "Chị"
+  },
+  {
+    "key": 5,
+    "value": "Em"
+  },
+  {
+    "key": 6,
+    "value": "Bạn"
+  },
+  {
+    "key": 7,
+    "value": "Ông"
+  },
+  {
+    "key": 8,
+    "value": "Bà"
+  },
+  {
+    "key": 9,
+    "value": "Chú"
+  },
+  {
+    "key": 19,
+    "value": "Con"
+  },
+  {
+    "key": 11,
+    "value": "Vợ"
+  },
+  {
+    "key": 12,
+    "value": "Chồng"
+  }
+]
